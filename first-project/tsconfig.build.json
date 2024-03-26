@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "test", "dist", "**/*spec.ts"]
+}
+//arquivo q diz onde serão criados cada arquivo
+//SPEC --> arquivo de TESTE
